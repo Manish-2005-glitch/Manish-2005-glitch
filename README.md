@@ -67,7 +67,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 ### 🌐 Portfolio & Resume
 
 - 👨‍💻 Portfolio: https://deploy-mind-ai.lovable.app/
-- 📄 Resume: https://drive.google.com/file/d/1E5gmHh54PvbuTiW7gh523q9_KYYnrp6D/view?usp=sharing
+- 📄 Resume: https://drive.google.com/file/d/104V4A31raz1ClbKWDclHBl_Tt5qCOu3A/view?usp=sharing
 - 📫 Email: **manishmohapatra33@gmail.com**
 
 ---
